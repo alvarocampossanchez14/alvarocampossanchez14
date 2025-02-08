@@ -14,9 +14,9 @@
 
 ## 🛠 Tecnologías y herramientas
 
-![Lenguajes](https://skillicons.dev/icons?i=js,ts,python,java,go,rust,c,cpp,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,flutter,laravel,django,spring)
-![Herramientas](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,vscode,linux)
+![Lenguajes](https://skillicons.dev/icons?i=js,ts,python,html,css)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,laravel,reflex)
+![Herramientas](https://skillicons.dev/icons?i=git,github,docker,linux)
 
 ---
 
