@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎯 **Desarrollador(a) [frontend/backend/fullstack]** con experiencia en [tecnologías principales].
+- 🎯 **Desarrollador(a) fullstack** con experiencia en Laravel, Angular, Astro, Vue y React.
 - 🌱 Actualmente aprendiendo Github Pipelines, Automatize deploy with docker.
 - 💡 Apasionado(a) por Desarrollo WEB, IA.
 - 📫 Contáctame en alvarocamposdev@gmail.com.
