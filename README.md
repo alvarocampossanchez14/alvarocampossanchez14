@@ -1,7 +1,6 @@
 # 💻 Hola, soy Álvaro Campos!
 
-![Banner opcional con tu estilo](https://cdn.discordapp.com/attachments/886607607115161640/1337911712854048868/Black_Elegant_Minimalist_Profile_LinkedIn_Banner.png?ex=67a92ae1&is=67a7d961&hm=454ebfa39ea9cece373414b6aadee4a08fb1bf9e2fa81320d0275cda6556c995&)
-
+(https://alvarocampos.dev/Banner.png)
 ## 🚀 Sobre mí
 
 - 🎯 **Desarrollador(a) fullstack** con experiencia en Laravel, Angular, Astro, Vue y React.
