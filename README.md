@@ -1,6 +1,6 @@
 # 💻 Hola, soy Álvaro Campos!
 
-(https://alvarocampos.dev/Banner.png)
+! [Banner](https://alvarocampos.dev/Banner.png)
 ## 🚀 Sobre mí
 
 - 🎯 **Desarrollador(a) fullstack** con experiencia en Laravel, Angular, Astro, Vue y React.
