@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=alvarocampossanchez14&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocampossanchez14&layout=compact&theme=dark)
-
----
-
 ## 🌎 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-campos-sanchez-4aabb6288/)
