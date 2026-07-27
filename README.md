@@ -24,6 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-campos-sanchez-4aabb6288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://alvarocampos.dev)
 
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=alvarocampossanchez14)](https://github.com/alvarocampossanchez14/github-readme-stats)
 ---
 
 ⭐ **Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios!** ⭐
